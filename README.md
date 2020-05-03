@@ -1,14 +1,14 @@
 [![Build Status](https://travis-ci.org/nikopeikrishvili/GeorgiaNationalBank.svg?branch=master)](https://travis-ci.org/nikopeikrishvili/GeorgiaNationalBank)
-<br />
-![alt tag](https://media.licdn.com/media/p/1/000/211/335/1f72ee7.png)
+
+
 # NBG Rates
-ეროვნული ბანკიდან კურსების ბიბლიოთეკა, ამჟამად აქვს 2 წყარო <br />
-1. SOAP ვებ სერივის გამოყენებით <br />
-2. RSS ის გამოყენებით <br />
+ეროვნული ბანკიდან კურსების ბიბლიოთეკა, ამჟამად აქვს 2 წყარო 
+1. SOAP ვებ სერივის გამოყენებით 
+2. RSS ის გამოყენებით 
 
 ## Install
 ```
-composer require georgianationalbank/georgianationalbank
+composer require nikopeikrishvili/georgianationalbank:"dev-master"
 ```
 ***
 ## გამოყენება
